@@ -117,9 +117,9 @@ I0727 16:05:30.053996 2120995 server.go:242] Exiting ........
 
 ## References:
 
-https://blog.apnic.net/2021/03/29/how-facebook-achieves-disruption-free-updates-with-zero-downtime/
-https://copyconstruct.medium.com/file-descriptor-transfer-over-unix-domain-sockets-dcbbf5b3b6ec
-https://www.haproxy.com/blog/truly-seamless-reloads-with-haproxy-no-more-hacks/
-https://gist.github.com/kirk91/ec25703848172e8f56f671e0e1c73751
-https://blog.envoyproxy.io/envoy-hot-restart-1d16b14555b5
-https://blog.cloudflare.com/know-your-scm_rights/
+1. https://blog.apnic.net/2021/03/29/how-facebook-achieves-disruption-free-updates-with-zero-downtime/
+2. https://copyconstruct.medium.com/file-descriptor-transfer-over-unix-domain-sockets-dcbbf5b3b6ec
+3. https://www.haproxy.com/blog/truly-seamless-reloads-with-haproxy-no-more-hacks/
+4. https://gist.github.com/kirk91/ec25703848172e8f56f671e0e1c73751
+5. https://blog.envoyproxy.io/envoy-hot-restart-1d16b14555b5
+6. https://blog.cloudflare.com/know-your-scm_rights/
