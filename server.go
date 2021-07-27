@@ -240,6 +240,7 @@ func main() {
 	}
 
 	klog.Infoln("Exiting ........")
+	os.Exit(0)
 }
 
 // https://gist.github.com/kirk91/ec25703848172e8f56f671e0e1c73751
